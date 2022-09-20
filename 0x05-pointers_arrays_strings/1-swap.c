@@ -6,7 +6,7 @@
  * @*b: Pointer with the address value.
  * Description: functio that swaps value of two integers
  *
- * Return: none.
+ *  Return: none.
  */
 void swap_int(int *a, int *b)
 {
@@ -15,6 +15,4 @@ void swap_int(int *a, int *b)
 	i = *a;
 	*a = *b;
 	*b = i;
-}	
-
-
+}
