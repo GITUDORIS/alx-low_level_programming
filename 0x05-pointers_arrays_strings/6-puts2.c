@@ -3,7 +3,6 @@
 /**
  * puts2 - main function
  * @str: Pointer, the string to print.
- * Descrip: print other char of a string starting with the first char,and new line.
  * Return: (0)
  */
 
